@@ -31,7 +31,7 @@ packaging==19.2
 Pillow==5.4.0
 pluggy==0.13.1
 protobuf==3.6.1
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 PyMySQL==0.9.3
 pyparsing==2.4.5
